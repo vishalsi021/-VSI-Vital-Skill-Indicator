@@ -110,7 +110,7 @@ Follow these instructions to get a local copy of the project up and running.
 ## 👥 The Team
 
 - **Vishal:** Data & AI Specialist
-- **Yashashwani:** Backend Developer
+- **Yashaswini:** Backend Developer
 - **Vikshitha:** Frontend Developer
 
 ## 🗺️ Future Roadmap

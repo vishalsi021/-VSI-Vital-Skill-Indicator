@@ -1,0 +1,36 @@
+{
+  "active_provider": "huggingface",
+  "providers": {
+    "huggingface": {
+      "repo_id": "mistralai/Mistral-7B-Instruct-v0.2",
+      "model_kwargs": {
+        "temperature": 0.1,
+        "max_new_tokens": 1024
+      }
+    },
+    "groq": {
+      "model_name": "llama3-8b-8192",
+      "temperature": 0.1
+    },
+    "anthropic": {
+      "model_name": "claude-3-sonnet-20240229",
+      "temperature": 0.1
+    }
+  },
+  "search_parameters": {
+    "roles": [
+      "Software Engineer",
+      "AI Engineer",
+      "Machine Learning Engineer",
+      "Data Scientist",
+      "DevOps Engineer",
+      "Cloud Engineer"
+    ],
+    "locations": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Europe"
+    ]
+  }
+}
